@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <title>JONI<title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1>Проект Станислав Пенев</h1>
+    <div class="sreda">
+      <hr>
+      <h3>Име</h4>
+      <hr>
+      <p>Станиалав Пенев</p>
+      <hr>
+      <h3>Телефон</h3>
+      <hr>
+      <p>0884128071</p>
+      <hr>
+      <h3>Рожденна дата</h3>
+      <hr>
+      <p>11.08.2002 14 години.</p>
+      <hr>
+      <h3>Образование</h3>
+      <hr>
+      <p>До 7-ми клас в 104 ОУ.</p>
+      <hr>
+      <h3>Хоби</h3>
+      <hr>
+      <p>Обичам да ритам.</p>
+      <hr>
+  </div>
+  </body>
+</html>
+
+
+
+
+
+body{
+  background-color: #4682B4;
+  text-align: center;
+}
+.sreda{
+  margin: 30px;
+  background-color: #00CED1;
+}
